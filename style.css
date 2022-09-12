@@ -744,7 +744,7 @@ h3 {
 }
 
 h1 {
-    color: white!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -1059,5 +1059,9 @@ footer {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .img_correction {
+        height: 400px;
+        width: 500px;
     }
 }
